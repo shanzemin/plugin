@@ -2,6 +2,6 @@
 
 module.exports = {
   testPlugin() {
-    console.log('current is test plugin')
+    console.log('哈哈哈哈')
   }
 }
